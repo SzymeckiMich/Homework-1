@@ -3,5 +3,6 @@ public class Homework1 {
         System.out.println("Uczę \nsię \nprogramowania");
         System.out.println(" i \ncommitowania");
         System.out.println("Oto nowa linijka kodu");
+        System.out.println("i jeszcze jedna, a co");
     }
 }
